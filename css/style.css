@@ -1,0 +1,121 @@
+body
+{
+background-color: darkslategrey;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.mn
+{
+
+width: 100%;
+height: 80px;
+border-bottom: 2px solid white;
+}
+.div1
+{
+float: left;
+background-color: rgba(255, 255, 255, 0.5);
+width: 100%;
+}
+.div2
+{
+width: 55px;
+margin-left: 600px;
+margin-top: 25px;
+float: left;
+height: 38px;
+}
+.div3
+{
+margin-right: auto;
+margin-left: 700px;
+}
+.div4
+{
+
+width: 15%;
+height: 520px;
+margin-right: 50%;
+float: left;
+position: absolute;
+margin-top: 1px;
+border-radius: 10px;
+border: 1px solid black;
+
+}
+.div5
+{
+
+width: 66%;
+height: 520px;
+margin-left: 16%;
+float: left;
+position: absolute;
+border-radius: 10px;
+
+}
+
+.div6
+{
+
+margin-top: 1px;
+width: 16%;
+height: 520px;
+margin-left: 84%;
+border-radius: 10px;
+text-align: center;
+border: 1px solid black;
+}
+h1
+{
+color: blue;
+text-transform: uppercase;
+}
+h3
+{
+color: blue;
+text-transform: uppercase;
+}
+.nav_li{
+    list-style-type: none;
+    margin-right: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+.img1
+{
+height: 520.5px;
+width:100%;
+border-radius: 10px;
+position: absolute;
+
+}
+.foot{
+    float: left;
+    width: 33.2%;
+    border: 1px solid black;
+    margin-top: 2%;
+    background-color: rgba(255, 255, 255, 0.5);
+    height: 28vh;
+    margin-bottom: 2%;
+}
+
+.cp
+{
+width: 100%;
+height: 80px;
+text-align: center;
+}
